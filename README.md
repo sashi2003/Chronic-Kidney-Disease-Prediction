@@ -10,19 +10,19 @@ Chronic Kidney Disease is a serious health condition that can lead to kidney fai
 
 ## Dataset
 
-The dataset consists of clinical and demographic features such as blood pressure, blood sugar levels, and other health indicators.
-It contains missing values and requires preprocessing before model training.
+ - The dataset consists of clinical and demographic features such as blood pressure, blood sugar levels, and other health indicators.
+ - It contains missing values and requires preprocessing before model training.
 
 ## Methodology
-Data preprocessing and handling missing values
-Feature selection using techniques like Recursive Feature Elimination (RFE)
-Model training using Random Forest and Extra Trees classifiers
-Model evaluation using accuracy, precision, recall, and F1-score
+ - Data preprocessing and handling missing values
+ - Feature selection using techniques like Recursive Feature Elimination (RFE)
+ - Model training using Random Forest and Extra Trees classifiers
+ - Model evaluation using accuracy, precision, recall, and F1-score
 
 ## Results
-Achieved approximately 99% accuracy in predicting CKD
-Ensemble models outperformed traditional machine learning algorithms
-Feature selection and preprocessing significantly improved model performance
+ - Achieved approximately 99% accuracy in predicting CKD
+ - Ensemble models outperformed traditional machine learning algorithms
+ - Feature selection and preprocessing significantly improved model performance
 
 ## Technologies Used
  - Python
