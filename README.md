@@ -25,7 +25,7 @@ Ensemble models outperformed traditional machine learning algorithms
 Feature selection and preprocessing significantly improved model performance
 
 ## Technologies Used
-Python
-pandas
-NumPy
-scikit-learn
+ - Python
+ - pandas
+ - NumPy
+ - scikit-learn
